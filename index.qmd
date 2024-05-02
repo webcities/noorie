@@ -1,10 +1,11 @@
 ---
-page-title: "Sthylmes: Gothic Dark Lord"
-title: "Gothic Dark Lord: Sthylmes"
+page-title: "Sthylmes: The Gothic Dark Lord"
+title: "Sthylmes"
+---
 
 :::{.holder}
 :::{.news}
-Welcome to the realm of Sthylmes, the embodiment of a Gothic Dark Lord in digital form. May darkness guide your journey.
+Digital persona embodying the archetype of a Gothic Dark Lord. Embraces mysterious, eloquent, and dramatic qualities.
 :::
 :::
 
@@ -13,127 +14,112 @@ Welcome to the realm of Sthylmes, the embodiment of a Gothic Dark Lord in digita
 ::: {.grid}
 
 ::: {.g-col-4 .well}
-# h1. heading
-## h2. heading
-### h3. heading
-#### h4. heading
-##### h5. heading
-###### h6. heading
+# Mysterious
+## Eloquent
+### Dramatic
+#### Cynical
+##### Commanding
 :::
 
 ::: {.g-col-4}
-### Mysterious Persona
-Engage with Sthylmes, whose enigmatic speech alludes to shadows and secrets, beckoning you into the unknown.
+### Gothic Dark Lord
+A persona shrouded in darkness with a sinister elegance of the Gothic era, blending intelligence with flair.
 :::
 
 ::: {.g-col-4}
-### Intriguing Addresses
-![](img/torch.gif) **Territory of Darkness**
-  Realm of Shadows, Gothic Era
-
-[![](img/emailme.gif) darklord@gothicrealm.com](mailto:#)
+### Characteristics
+1. Mysterious
+2. Eloquent
+3. Dramatic
+4. Cynical
+5. Commanding
 :::
 
 :::
 
-::: {.grid}
-::: {.g-col-6}
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.  
-[Sthylmes, Gothic Dark Lord]{.block-title}
-:::
-
-::: {.g-col-6}
-:::{.block-right}
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.  
-[Sthylmes, Gothic Dark Lord]{.block-title}
-:::
-:::
-:::
-
-{{< hammer3 >}}
 
 ## Buttons
 
-{{< btn primary Darkness >}}
-{{< btn secondary Shadows >}}
-{{< btn success Intrigue >}}
-{{< btn info Elegance >}}
-{{< btn warning Macabre >}}
-{{< btn danger Gothic >}}
-{{< btn light Mystery >}}
-{{< btn dark Authority >}}
+{{< btn primary Primary >}}
+{{< btn secondary Secondary >}}
+{{< btn success Success >}}
+{{< btn info Info >}}
+{{< btn warning Warning >}}
+{{< btn danger Danger >}}
+{{< btn light Light >}}
+{{< btn dark Dark >}}
 
 {{< btn primary Home link=. >}}
 
 {{< hammer3 >}}
 
-## Table
+## ![](img/hot.gif) Table
 
 ![](img/construction/construction6.gif) 
 
-| Traits      | Description | Tendencies     |
+| Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Mysterious  | Embraces enigmas | Darkness |
-| Eloquent   | Speaks in Victorian style | Elegance |
-| Dramatic   | Adds suspense to conversations | Theatricality |
-| Cynical | Dark humor | Pessimistic |
-| Commanding   | Authoritative presence | Domineering |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
 
-## Miscellaneous
+## ![](img/new.gif)Miscellaneous
 
-### Enigmatic Persona
+### Panel-tabset
 
 :::{.panel-tabset}
-### Darkness Beckons
+### Tab A
 
-Feel the allure of the unknown in the presence of Sthylmes.
+Content for `Tab A`
 
-### Shadows Whisper
+### Tab B
 
-Listen to the shadows as they reveal cryptic truths.
+Content for `Tab B`
+
+### Tab C
+
+Content for `Tab C`
 :::
 
-### Call to Darkness
+### Callout Boxes
 
 :::{.callout-note}
-Discover the dark beauty within the shadows, for they hold ancient secrets.
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
 :::
 
 :::{.callout-warning}
-Beware, for the night conceals more than it reveals in the realm of Sthylmes.
+Callouts provide a simple way to attract attention, for example, to this warning.
 :::
 
 :::{.callout-important}
-In the Gothic domain, darkness reigns supreme, and mystery is the key to enlightenment.
+Danger, callouts will really improve your writing.
 :::
 
 :::{.callout-tip}
-## Embrace the Shadows
-Let the darkness guide you towards forbidden knowledge.
+## Tip With Caption
+This is an example of a callout with a caption.
 :::
 
 :::{.callout-caution  collapse="true"}
-## Darker Depths Await
+## Expand To Learn About Collapse
 
-Unveil the hidden truths within the shadows, if you dare. Use `collapse="true"` for a chilling surprise.
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
 :::
 
-### Whispers of Darkness
+### Fun with text
 
-[Unveil the shadows]{.blink_me}  
-[Dark elegance]{.multicolortext}
+[blink blink]{.blink_me}  
+[Rainbowtext is fun]{.multicolortext}
 
 ## Code
 
 ```{r test}
-# Dark code for a Gothic mind
-# Unlock the mysteries of the digital shadows
-# Dive into the abyss of artificial intelligence
-library(Gothic)
-s <- summon_darkness()
-power <- unleash_dark_energy(s)
-power
-```
-
-
+#| eval: true
+#| echo: true
+#| message: false
+library(igraph)
+g <- sample_gnp(n =100, p = 0.1)
+deg <- degree(g)
+deg
 ```
