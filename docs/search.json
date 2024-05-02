@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html#why",
+    "href": "about.html#why",
+    "title": "Quartocities",
+    "section": "Why????",
+    "text": "Why????\n Because webdesign peaked in the late 90s/early 2000s! \nAlso, I wanted to get a better understanding of some of the internals of quarto webpages. Then I found a geocities theme for bootstrap 2 which I used as an inspiriation. Aaaaaaand that is how we ended up in this weird place."
+  },
+  {
+    "objectID": "about.html#how",
+    "href": "about.html#how",
+    "title": "Quartocities",
+    "section": "How?",
+    "text": "How?\nJust clone/fort the repo schochastics/quartocities and adapt at will."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sthylmes",
+    "section": "",
+    "text": "Digital persona embodying the archetype of a Gothic Dark Lord. Embraces mysterious, eloquent, and dramatic qualities."
+  },
+  {
+    "objectID": "index.html#typography",
+    "href": "index.html#typography",
+    "title": "Sthylmes",
+    "section": "Typography",
+    "text": "Typography"
+  },
+  {
+    "objectID": "index.html#eloquent",
+    "href": "index.html#eloquent",
+    "title": "Sthylmes",
+    "section": "Eloquent",
+    "text": "Eloquent\n\nDramatic\n\nCynical\n\nCommanding"
+  },
+  {
+    "objectID": "index.html#buttons",
+    "href": "index.html#buttons",
+    "title": "Sthylmes",
+    "section": "Buttons",
+    "text": "Buttons\nPrimary\nSecondary\nSuccess\nInfo\nWarning\nDanger\nLight\nDark\nHome"
+  },
+  {
+    "objectID": "index.html#table",
+    "href": "index.html#table",
+    "title": "Sthylmes",
+    "section": " Table",
+    "text": "Table\n\n\n\n\nSyntax\nDescription\nTest Text\n\n\n\n\nHeader\nTitle\nHere’s this\n\n\nParagraph\nText\nAnd more\n\n\nParagraph\nText\nAnd more"
+  },
+  {
+    "objectID": "index.html#miscellaneous",
+    "href": "index.html#miscellaneous",
+    "title": "Sthylmes",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\nPanel-tabset\n\nTab ATab BTab C\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\nContent for Tab C\n\n\n\n\n\nCallout Boxes\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nDanger, callouts will really improve your writing.\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\nFun with text\nblink blink\nRainbowtext is fun"
+  },
+  {
+    "objectID": "index.html#code",
+    "href": "index.html#code",
+    "title": "Sthylmes",
+    "section": "Code",
+    "text": "Code\n\nlibrary(igraph)\ng &lt;- sample_gnp(n =100, p = 0.1)\ndeg &lt;- degree(g)\ndeg\n\n  [1] 16  5 11 12 12 12 11 15 10 16 15 11 16  6 12 12 12 12  5 10  9  6 14  5 13\n [26] 12 18 11 11  9  9 13  8 16 13 11 10 13  9  9 13 10 11  9 10 11  8  8 10 19\n [51]  5  8 10 16  7 11 10  8  8 12  7  8 15 14  8  7  8 13  9 11 12 10 10 15 11\n [76]  4 10  7  6  9 10 14 10  6 12 10 10 11 11  8 14  9 14 12  8 13 17 12  7 10"
+  },
+  {
+    "objectID": "gifs.html",
+    "href": "gifs.html",
+    "title": "gifs",
+    "section": "",
+    "text": "The img folder includes the following gifs to play with\nlist.files(\"img\",pattern = \"gif\")\n\n [1] \"7upspot.gif\"           \"americanflag.gif\"      \"back.gif\"             \n [4] \"banana-dance.gif\"      \"bulb.gif\"              \"community.gif\"        \n [7] \"computer-01.gif\"       \"computer.gif\"          \"counter.gif\"          \n[10] \"counter2.gif\"          \"danger.gif\"            \"drudgesiren.gif\"      \n[13] \"emailme.gif\"           \"exclamation.gif\"       \"flames.gif\"           \n[16] \"funky.gif\"             \"hacker.gif\"            \"heart.gif\"            \n[19] \"hot.gif\"               \"ie_logo.gif\"           \"info.gif\"             \n[22] \"link.gif\"              \"mailkitten.gif\"        \"mchammer.gif\"         \n[25] \"new.gif\"               \"new2.gif\"              \"next.gif\"             \n[28] \"noframes.gif\"          \"notepad.gif\"           \"ns_logo.gif\"          \n[31] \"progress.gif\"          \"rainbow.gif\"           \"save.gif\"             \n[34] \"sign-in.gif\"           \"spinningearth.gif\"     \"torch.gif\"            \n[37] \"twitter.gif\"           \"underconstruction.gif\" \"wabwalk.gif\"          \n[40] \"webtrips.gif\"          \"yahooweek.gif\""
+  },
+  {
+    "objectID": "gifs.html#more-gifs",
+    "href": "gifs.html#more-gifs",
+    "title": "gifs",
+    "section": "More GIFs?",
+    "text": "More GIFs?\nHead to gifcities and rediscover all your favorite gifs from the early internet age!"
+  },
+  {
+    "objectID": "shortcodes.html",
+    "href": "shortcodes.html",
+    "title": "shortcodes",
+    "section": "",
+    "text": "{{&lt; twitter schochastics &gt;}}\n\n{{&lt; github schochastics &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#socials",
+    "href": "shortcodes.html#socials",
+    "title": "shortcodes",
+    "section": "",
+    "text": "{{&lt; twitter schochastics &gt;}}\n\n{{&lt; github schochastics &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#gif-shortcodes",
+    "href": "shortcodes.html#gif-shortcodes",
+    "title": "shortcodes",
+    "section": "Gif shortcodes",
+    "text": "Gif shortcodes\n{{&lt; hammer3 &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#divider-shortcodes",
+    "href": "shortcodes.html#divider-shortcodes",
+    "title": "shortcodes",
+    "section": "Divider shortcodes",
+    "text": "Divider shortcodes\n{{&lt; divider 1 &gt;}}\n\n{{&lt; divider 2 &gt;}}\n\n{{&lt; divider 3 &gt;}}\n\n{{&lt; divider 4 &gt;}}\n\n{{&lt; divider 5 &gt;}}\n\n{{&lt; divider 6 &gt;}}\n\n{{&lt; divider 7 &gt;}}\n\n{{&lt; divider 8 &gt;}}\n\n{{&lt; divider 9 &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#buttons",
+    "href": "shortcodes.html#buttons",
+    "title": "shortcodes",
+    "section": "Buttons",
+    "text": "Buttons\n{{&lt; btn primary Primary &gt;}}\nPrimary\n{{&lt; btn secondary Secondary &gt;}}\nSecondary\n{{&lt; btn success Success &gt;}}\nSuccess\n{{&lt; btn info Info &gt;}}\nInfo\n{{&lt; btn warning Warning &gt;}}\nWarning\n{{&lt; btn danger Danger &gt;}}\nDanger\n{{&lt; btn light Light &gt;}}\nLight\n{{&lt; btn dark Dark &gt;}}\nDark\n{{&lt; btn primary Home link=../ &gt;}}\nHome"
+  },
+  {
+    "objectID": "filters.html",
+    "href": "filters.html",
+    "title": "filters",
+    "section": "",
+    "text": "Page under construction\nadd construction: true to the yaml header of a page and a random “under construction” gif is added at the top of the page\n\n\n\nBackgrounds\nchange the background of the html body using the yaml parameter body_bg. Can be set globally in _quarto.yml or locally in a file. The default is microfab. other options are shown below (dont use the file ending, ie body_bg: space).\n\nfl &lt;- list.files(\"img/bg\")\nfl\n\n[1] \"flames.gif\"     \"matrix.gif\"     \"microfab.gif\"   \"pink_heart.gif\"\n[5] \"space.gif\"      \"stars_fall.gif\" \"stars.gif\"      \"universe.gif\"  \n\n\n\nIn the same way, the background of the navbar can be changed with nav_bg. Here the default is stars.\n\n\n\ntitle gif\nAdd a gif to the title of a page using the yaml parameter title_gif. Can be set globally in _quarto.yml or locally in a file. default is to not display a gif. The gif needs to be present in the img/ folder (dont use the file ending, ie title_gif: banana-dance). If you set a global gif you can unset it for specific pages via title-gif:none."
+  }
+]
